@@ -1,3 +1,17 @@
 body {
     background-color: rgb(253, 247, 240);
 }
+
+h1,
+h2,
+h3,
+p,
+li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(102, 73, 35);
+}
+
+p,
+li {
+    font-family: 'Courier New', Courier, monospace;
+}
