@@ -12,8 +12,8 @@ li {
     color: rgb(102, 73, 35);
 }
 
-p,
-li {
+li,
+h3 {
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -22,7 +22,8 @@ img {
     height: auto;
 }
 
-.ingredients {
+.ingredients-steps {
     background-color: white;
     padding: 1rem;
 }
+
