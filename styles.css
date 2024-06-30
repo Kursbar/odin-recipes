@@ -1,5 +1,6 @@
 body {
     background-color: rgb(253, 247, 240);
+    padding: 1rem;
 }
 
 h1,
@@ -14,4 +15,14 @@ li {
 p,
 li {
     font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    width: 700px;
+    height: auto;
+}
+
+.ingredients {
+    background-color: white;
+    padding: 1rem;
 }
